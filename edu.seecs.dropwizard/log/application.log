@@ -1,0 +1,12 @@
+INFO   [00:29:59.714] [main] o.e.j.u.log -  Logging initialized @10108ms to org.eclipse.jetty.util.log.Slf4jLog 
+INFO   [00:30:00.647] [main] i.d.s.DefaultServerFactory -  Registering jersey handler with root path prefix: / 
+INFO   [00:30:00.661] [main] i.d.s.DefaultServerFactory -  Registering admin handler with root path prefix: / 
+INFO   [00:30:00.663] [main] i.d.a.AssetsBundle -  Registering AssetBundle with name: assets for path /assets/* 
+INFO   [00:30:01.024] [main] i.d.a.AssetsBundle -  Registering AssetBundle with name: swagger-assets for path /swagger-static/* 
+INFO   [00:30:01.656] [main] o.r.Reflections -  Reflections took 434 ms to scan 1 urls, producing 18 keys and 18 values  
+INFO   [00:30:27.544] [main] o.e.j.u.log -  Logging initialized @8075ms to org.eclipse.jetty.util.log.Slf4jLog 
+INFO   [00:30:28.393] [main] i.d.s.DefaultServerFactory -  Registering jersey handler with root path prefix: / 
+INFO   [00:30:28.431] [main] i.d.s.DefaultServerFactory -  Registering admin handler with root path prefix: / 
+INFO   [00:30:28.434] [main] i.d.a.AssetsBundle -  Registering AssetBundle with name: assets for path /assets/* 
+INFO   [00:30:28.653] [main] i.d.a.AssetsBundle -  Registering AssetBundle with name: swagger-assets for path /swagger-static/* 
+INFO   [00:30:28.894] [main] o.r.Reflections -  Reflections took 172 ms to scan 1 urls, producing 18 keys and 18 values  
